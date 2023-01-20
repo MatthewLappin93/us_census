@@ -1,0 +1,67 @@
+education
+sex
+num persons worked for employer
+weeks worked in year_bins
+capital gains_bins
+dividends from stocks_bins
+age_bins
+major industry code_ Agriculture
+major industry code_ Armed Forces
+major industry code_ Business and repair services
+major industry code_ Communications
+major industry code_ Construction
+major industry code_ Education
+major industry code_ Entertainment
+major industry code_ Finance insurance and real estate
+major industry code_ Forestry and fisheries
+major industry code_ Hospital services
+major industry code_ Manufacturing-durable goods
+major industry code_ Manufacturing-nondurable goods
+major industry code_ Medical except hospital
+major industry code_ Mining
+major industry code_ Not in universe or children
+major industry code_ Other professional services
+major industry code_ Personal services except private HH
+major industry code_ Private household services
+major industry code_ Public administration
+major industry code_ Retail trade
+major industry code_ Social services
+major industry code_ Transportation
+major industry code_ Utilities and sanitary services
+major industry code_ Wholesale trade
+major occupation code_ Adm support including clerical
+major occupation code_ Armed Forces
+major occupation code_ Executive admin and managerial
+major occupation code_ Farming forestry and fishing
+major occupation code_ Handlers equip cleaners etc 
+major occupation code_ Machine operators assmblrs & inspctrs
+major occupation code_ Not in universe
+major occupation code_ Other service
+major occupation code_ Precision production craft & repair
+major occupation code_ Private household services
+major occupation code_ Professional specialty
+major occupation code_ Protective services
+major occupation code_ Sales
+major occupation code_ Technicians and related support
+major occupation code_ Transportation and material moving
+tax filer stat_ Head of household
+tax filer stat_ Joint both 65+
+tax filer stat_ Joint both under 65
+tax filer stat_ Joint one under 65 & one 65+
+tax filer stat_ Nonfiler
+tax filer stat_ Single
+detailed household summary in household_ Child 18 or older
+detailed household summary in household_ Child under 18 ever married
+detailed household summary in household_ Child under 18 never married
+detailed household summary in household_ Group Quarters- Secondary individual
+detailed household summary in household_ Householder
+detailed household summary in household_ Nonrelative of householder
+detailed household summary in household_ Other relative of householder
+detailed household summary in household_ Spouse of householder
+class of worker_ Federal government
+class of worker_ Local government
+class of worker_ Private
+class of worker_ Self-employed-incorporated
+class of worker_ Self-employed-not incorporated
+class of worker_ State government
+class of worker_nui_nw_wp
