@@ -2,5 +2,6 @@ catboost_info
 CBoost-2023-01-19.json
 CBoost-2023-01-18.json
 XGBoost-2023-01-19.json
+*.pkl
 *.csv
 *.npy
